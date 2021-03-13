@@ -1,6 +1,6 @@
 # Hi, I'm Philipp 👋
 
-I got my Bachelor's in Product Management from [@codeuniversity](https://github.com/codeuniversity) in 2020, and currently work as a technology consultant. Before that, I collected multiple years of experience in tech-focused start-up and corporate environments. Throughout the years, I contributed to 12+ cross-functional project teams as product manager and software engineer, three of which I managed.
+I got my Bachelor's in Product Management from [@codeuniversity](https://github.com/codeuniversity) in 2020, and currently work as a technology consultant at [@accenture](https://github.com/accenture). Before that, I collected multiple years of experience in tech-focused start-up and corporate environments. Throughout the years, I contributed to 12+ cross-functional project teams as product manager and software engineer, three of which I managed.
 
 I started to write code at age 11, now I love to identify customers’ pain points and build products that solve real-world problems. To deliver successful solutions efficiently, I focus on the most important metrics and quickly adapt to new insights.  
 
